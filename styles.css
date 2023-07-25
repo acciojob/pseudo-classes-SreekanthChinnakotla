@@ -6,7 +6,7 @@ p:first-child{
 p:last-child{
 	color:rgb(255,0,0);
 }
-body{
+html{
 	background-color:rgb(135,206,235);
 }
 li{
